@@ -9,7 +9,7 @@ I have developed CinéOpinions, a web application built using Java Spring Boot, 
 Its smooth interface enables easy navigation while allowing users to discover, rate, and comment on movies. 
 CinéOpinions aims to simplify movie exploration while fostering community interaction through user-friendly review and rating features.
 
-![image](images/1.png)
-
 ![image](images/2.png)
+
+![image](images/1.png)
 
